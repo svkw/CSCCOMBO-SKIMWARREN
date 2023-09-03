@@ -7,7 +7,8 @@ public class HelloWorld {
 		System.out.println();
 		int x = 5, y = 4;
 		int sum = x + y;
-		System.out.println("sum is " + sum);
+		int mult = x * y;
+		System.out.println("sum is " + sum + "; multiplied number is " + mult);
 
 	}
 
